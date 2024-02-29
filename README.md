@@ -8,8 +8,8 @@ This example is for creating new ModusToolbox™ project with the RDK4.
 
 ## Requirements
 
-- [ModusToolbox® software](https://www.infineon.com/cms/en/design-support/tools/sdk/modustoolbox-software/) v3.0
-- The latest hardware release RDK4 Rev1.
+- [ModusToolbox® software](https://www.infineon.com/cms/en/design-support/tools/sdk/modustoolbox-software/) v3.1
+- The latest hardware release [RDK4 Rev2](https://github.com/RutronikSystemSolutions/RDK4_Hardware_Files).
 
 ## Using the code example
 
