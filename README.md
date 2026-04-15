@@ -2,18 +2,18 @@
 
 Rutronik Development Kit 4 Programmable System-on-Chip CY8C4149AZE-S598 "RDK4 Empty App" Code Example. 
 
-This example is for creating new ModusToolbox™ project with the RDK4.
+This example shows how to create a new ModusToolbox™ project with the RDK4.
 
 <img src="images/rdk4_top.jpg" style="zoom:20%;" />
 
 ## Requirements
 
-- [ModusToolbox® software](https://www.infineon.com/cms/en/design-support/tools/sdk/modustoolbox-software/) v2025.4.0
+- [ModusToolbox® software](https://www.infineon.com/cms/en/design-support/tools/sdk/modustoolbox-software/) v3.7
 - The latest hardware release [RDK4 Rev2](https://github.com/RutronikSystemSolutions/RDK4_Hardware_Files).
 
 ## Supported toolchains (make variable 'TOOLCHAIN')
 
-- GNU Arm&reg; Embedded Compiler v11.3.1 (`GCC_ARM`) - Default value of `TOOLCHAIN`
+- GNU Arm&reg; Embedded Compiler v14.2.1 (`GCC_ARM`) - Default value of `TOOLCHAIN`
 
 ## Using the code example
 
@@ -47,7 +47,7 @@ For more details, see the [Eclipse IDE for ModusToolbox&trade; software user gui
 
 #### SBC Development Mode
 
-A special mode, called SBC Development Mode, is available during software development or debugging of the system. The watchdog counter is stopped and does not need to be triggered. This mode can be accessed by setting the TEST [**FO3**] pin to GND during SBC Init Mode.
+A special mode, called SBC Development Mode, is available for software development or system debugging. The watchdog counter is stopped and does not need to be triggered. This mode can be accessed by setting the TEST [**FO3**] pin to GND during SBC Init Mode.
 
 ## Legal Disclaimer
 
